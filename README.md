@@ -1,1 +1,1 @@
-# lights-on
+#[ModKit Wiki](../../wiki)
